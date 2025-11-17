@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.coverage
+htmlcov/
+.pytest_cache/
+
+.DS_Store
+
+venv/
+env/
+
+.vscode/
+.idea/
+*.iml
